@@ -4,7 +4,11 @@ After, print the value to pay. This is a very simple program with the only inten
  practice of selection commands.
 
 code        specification         price
-
+1           cachorro quente         4.00
+2           x-salada                4.50
+3           x-bacon                 5.0 
+4           Torrada simples         2.0
+5           Refrigerante            1.50
 
 
 Input
